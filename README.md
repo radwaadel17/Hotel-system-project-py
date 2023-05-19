@@ -1,8 +1,7 @@
 ﻿# Hotel-system-project-py
  
- This projct help us to know all the data of guests of the people in hotel with python
- 
- 
+ This project help us to know all data of the guests in hotel ,  with python
+
  
 ## ```Programming languages :```
 * [Python]
