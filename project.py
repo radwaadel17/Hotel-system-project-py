@@ -32,7 +32,9 @@ def searchstudent():
                  print('---------------------------------------------------------------------')
                  print(line)
     if not flag :
-        print('The guest not here ')
+        print('The guest not here ')    
+        
+        
         
 
 def Updatehotel():
